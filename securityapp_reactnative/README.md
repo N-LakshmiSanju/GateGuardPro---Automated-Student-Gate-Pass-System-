@@ -1,1 +1,1 @@
-React native ode for security guard to scan identity cards of students.
+React native code for security guard to scan identity cards of students.
